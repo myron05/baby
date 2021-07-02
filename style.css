@@ -1,5 +1,17 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&family=Ubuntu:wght@400;500;700&display=swap');
 
+html, body {
+    max-width: 100% !important;
+    overflow-x: hidden !important;
+    
+}
+
+body
+{
+	min-height: 100vh;
+	overflow-x: hidden;
+}
+
 :root{
     --bg-color: #f8f4e8;
     --stroke: #023d27;
