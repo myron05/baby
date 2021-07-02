@@ -883,7 +883,7 @@ section{
         }
       }
 
-  @media(max-width:400px){
+ @media(max-width:400px){
     .teams .carousel .card p{
         font-size: 0.2em;}
       
@@ -896,9 +896,22 @@ section{
     margin-top: 50px;
   }
       .teams .carousel .card .text{
-    font-size: 19px;
+    font-size: 10px;
    
+  }
+  section .title{
+    
+    font-size: 20px;
+    
+   
+
+ }
+ 
+ .teams .title::after{
+    content: "Lunar Mission";
+    font-size: 13px;
   }
 
     }
+
   
