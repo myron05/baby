@@ -885,7 +885,12 @@ section{
 
   @media(max-width:400px){
     .teams .carousel .card p{
-        font-size: 0.2em;
+        font-size: 0.2em;}
+      
+      .teams .carousel .card img{
+      height: 70px;
+    width: 70px;
+      }
 
     }
   
