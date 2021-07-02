@@ -876,3 +876,10 @@ section{
   .owl-dot:hover{
     background:#825204 !important;
   }
+
+ @media screen and (max-width:780px) {
+        .box{
+          flex: 100%;
+        }
+      }
+  
