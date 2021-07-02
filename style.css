@@ -758,6 +758,7 @@ body{
 section{
     padding: 230px 0px;
     margin: 0px 0px;
+    height: 100vh;
     
 }
 
@@ -777,6 +778,7 @@ section{
     margin-bottom: 100px;
     padding-bottom: 20px;
     font-family: 'Ubuntu', sans-serif;
+     margin-top: -200px;
     
 
  }
