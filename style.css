@@ -738,17 +738,7 @@ body{
     }
 }
 
-.shadow-all{
-    position: absolute;
-    background-color: #aeacaf;
-    height: calc(32*var(--unit));
-    width: calc(310*var(--unit));
-    left: 50%;
-    top: 89%;
-    transform: translate(-50%, -50%);
-    border-radius: 50%;
-    
-}
+
 
 @keyframes float{
     0%{
