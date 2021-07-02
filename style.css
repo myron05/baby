@@ -32,11 +32,13 @@ body{
 }
 
 .container {
-    position: absolute;
+    position: relative;
     background-color: var(--bg-color);
-    height: calc(550*var(--unit));
+    
     width: calc(600*var(--unit));
     left:50%;
+    margin-top: 280px;
+    height: 50vh;
     top:50%;
     transform: translate(-50%, -50%);
 }
@@ -765,7 +767,7 @@ body{
 
 section{
     padding: 230px 0px;
-    margin: 750px 0px;
+    margin: 0px 0px;
     
 }
 
@@ -785,7 +787,7 @@ section{
     margin-bottom: 100px;
     padding-bottom: 20px;
     font-family: 'Ubuntu', sans-serif;
-    margin-top: -230px;
+    
 
  }
 
