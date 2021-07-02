@@ -882,4 +882,10 @@ section{
           flex: 100%;
         }
       }
+
+  @media(max-width:400px){
+    .teams .carousel .card p{
+        font-size: 0.2em;
+
+    }
   
